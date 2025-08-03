@@ -1,0 +1,14 @@
+D:\Full Stack .net  DEPI\C#\Tasks C#\Task1Calculators\Task1Calculators\bin\Debug\net9.0\Task1Calculators.exe
+D:\Full Stack .net  DEPI\C#\Tasks C#\Task1Calculators\Task1Calculators\bin\Debug\net9.0\Task1Calculators.deps.json
+D:\Full Stack .net  DEPI\C#\Tasks C#\Task1Calculators\Task1Calculators\bin\Debug\net9.0\Task1Calculators.runtimeconfig.json
+D:\Full Stack .net  DEPI\C#\Tasks C#\Task1Calculators\Task1Calculators\bin\Debug\net9.0\Task1Calculators.dll
+D:\Full Stack .net  DEPI\C#\Tasks C#\Task1Calculators\Task1Calculators\bin\Debug\net9.0\Task1Calculators.pdb
+D:\Full Stack .net  DEPI\C#\Tasks C#\Task1Calculators\Task1Calculators\obj\Debug\net9.0\Task1Calculators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Full Stack .net  DEPI\C#\Tasks C#\Task1Calculators\Task1Calculators\obj\Debug\net9.0\Task1Calculators.AssemblyInfoInputs.cache
+D:\Full Stack .net  DEPI\C#\Tasks C#\Task1Calculators\Task1Calculators\obj\Debug\net9.0\Task1Calculators.AssemblyInfo.cs
+D:\Full Stack .net  DEPI\C#\Tasks C#\Task1Calculators\Task1Calculators\obj\Debug\net9.0\Task1Calculators.csproj.CoreCompileInputs.cache
+D:\Full Stack .net  DEPI\C#\Tasks C#\Task1Calculators\Task1Calculators\obj\Debug\net9.0\Task1Calculators.dll
+D:\Full Stack .net  DEPI\C#\Tasks C#\Task1Calculators\Task1Calculators\obj\Debug\net9.0\refint\Task1Calculators.dll
+D:\Full Stack .net  DEPI\C#\Tasks C#\Task1Calculators\Task1Calculators\obj\Debug\net9.0\Task1Calculators.pdb
+D:\Full Stack .net  DEPI\C#\Tasks C#\Task1Calculators\Task1Calculators\obj\Debug\net9.0\Task1Calculators.genruntimeconfig.cache
+D:\Full Stack .net  DEPI\C#\Tasks C#\Task1Calculators\Task1Calculators\obj\Debug\net9.0\ref\Task1Calculators.dll
